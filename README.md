@@ -20,7 +20,7 @@ Chua Han Yong Darren © 2016. Code released under the GNU Affero General Public 
 
 ---
 
-This program is developed as an assignment for the Programming Fundamentals module. I have uploaded the source files publicly for reference and personal usage only. Please refrain from passing it off as your own work.<br><br>
+**This program is developed as an assignment for the Programming Fundamentals module. I have uploaded the source files publicly for reference and personal usage only. Please refrain from passing it off as your own work.**<br><br>
 
 _Warning by Singapore Polytechnic:
 Plagiarism means passing off as one's own the ideas, works, writings, etc., which belong to another person. In accordance with this definition, you are committing plagiarism if you copy the work of another person and turning it in as your own, even if you would have the permission of that person. Plagiarism is a serious offence and disciplinary action will be taken against you. If you are guilty of plagiarism, you may fail all modules in the semester, or even be liable for expulsion._
