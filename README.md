@@ -16,7 +16,7 @@ Clone this repository in the C drive. Next, `cd dist` and run the `disney-quiz-a
 
 ### Disclaimer
 
-This program is developed as an assignment for Singapore Polytechnic, ST1012 Programming Fundamentals module. I have uploaded the source files publicly for reference and personal usage only. Please refrain from [plagiarising](https://www.sp.edu.sg/sp/student-services/ssc-overview/student-handbook/intellectual-property-copyright-and-plagiarism) or passing it off as your own work. 
+This program was developed as an assignment for the Singapore Polytechnic, ST1012 Programming Fundamentals module. I have uploaded the source files publicly for reference and personal usage only. Please refrain from [plagiarising](https://www.sp.edu.sg/sp/student-services/ssc-overview/student-handbook/intellectual-property-copyright-and-plagiarism) or passing it off as your own work. 
 
 ### Copyright and License 
 
