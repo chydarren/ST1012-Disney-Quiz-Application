@@ -6,7 +6,7 @@ This is a Java program to simulate a Disney Quiz Application which can handle a 
 The user is to take the quiz and it will display the correct answer at the end of every question and the number of correct answers in total.
 There is also validation put in place to ensure that the user input the available answers only. 
 
-### Demo
+### Preview
 
 [Watch YouTube video](https://www.youtube.com/watch?v=HWXmbGgY-as)
 
