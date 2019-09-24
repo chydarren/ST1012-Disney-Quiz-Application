@@ -14,7 +14,7 @@ There is also validation put in place to ensure that the user input the availabl
 
 1. Clone this repository into the C: drive's root directory.
 
-2. Enter the "dist" directory by typing `cd disney-quiz-application/dist`. 
+2. Enter the "dist" directory by typing `cd "disney-quiz-application/dist"`. 
 
 3. Run the project by typing `java -jar "disney-quiz-application.jar"`. 
 
