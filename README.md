@@ -16,7 +16,7 @@ There is also validation put in place to ensure that the user input the availabl
 
 2. Enter the "dist" directory by typing `cd disney-quiz-application/dist`. 
 
-3. Run the `disney-quiz-application.jar` file.
+3. Run the project by typing `java -jar "disney-quiz-application.jar"`. 
 
 ## Disclaimer
 
