@@ -1,8 +1,6 @@
 # Disney Quiz Application
 
-## Introduction
-
-This is a Java program to simulate a Disney Quiz Application which can handle a mixture of MCQ and fill in the blank questions. 
+***Disney Quiz Application*** is a Java program to simulate a Disney Quiz Application which can handle a mixture of MCQ and fill in the blank questions. 
 The user is to take the quiz and it will display the correct answer at the end of every question and the number of correct answers in total.
 There is also validation put in place to ensure that the user input the available answers only. 
 
@@ -18,14 +16,12 @@ There is also validation put in place to ensure that the user input the availabl
 
 3. Run the project by typing `java -jar "disney-quiz-application.jar"`. 
 
-## Disclaimer
+## Acknowledgements
+
+- **Darren Chua** | [@chydarren](https://github.com/chydarren)
+
+## Credits
 
 This program was developed as an assignment for the Singapore Polytechnic, ST1012 Programming Fundamentals module. I have uploaded the source files publicly for reference and personal usage only. Please refrain from [plagiarising](https://www.sp.edu.sg/sp/student-services/ssc-overview/student-handbook/intellectual-property-copyright-and-plagiarism) or passing it off as your own work. 
-
-**Developer**
-
-- Chua Han Yong Darren ([@chydarren](https://github.com/chydarren))
-
-## Copyright and License 
 
 Chua Han Yong Darren © 2016. Code released under the GNU Affero General Public License v3.0.
